@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="de">
+ <head>
+        <meta charset="utf-8"> 
+        <title>IT-Solutions Shop</title>
+
+        <a href="linkzuindex.html">Startseite</a>
+        <a href="linkzuseite1">Seite 1</a>
+        <a href="linkzuseite2">Seite 3</a>
+        <a href="linkzuseite3">Seite 4</a>
+    </head>
+ <Body> 
+   <h1>IT Hardwarebedarf</h1>
+    <h1>IT-Solutions</h1>
+    <h3>Ihr Partner für IT-Zubehör aller Art</h3>
+    <body style="background-color:rgb(223, 224, 155);">
+      <h2>Produkte</h2>
+      <!-- Alles zusammen in einem Absatz-->
+<p>Hier finden sie unsere Pertner</p>
+
+      <ol>
+         <li> Apple</li>
+         <li> ASUS </li>
+         <li> Gigabyte </li>
+         <li> Alienware</li>
+      </ol>
+<table>
+<tr> <th> Hersteller </th> 		<th> Produkt</th> 			<th> Preis</th> </tr>
+<tr> <td> Apple</td> 	<td>  MacBook Pro 2022		</td> <td>1500€ </td> </tr>
+<tr> <td> ASUS</td> 	<td> Laptop 26" RTX4090 </td>		     	<td>1750,50€ </td> </tr>
+<tr> <td> Gigabyte</td> 	<td> Laptop 24" RTX4060 Ti </td> 		<td> 1299,00€</td> </tr>
+<tr> <td> Alienware </td> 	<td> Desktop Gaming PC</td> 		<td>1999,99€ </td> </tr>
+ </Body>   
+<!-- Kirby Dance-->
+<!-- (>'-')> <('-'<) ^(' - ')^ <('-'<) (>'-')> -->
